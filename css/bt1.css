@@ -1,0 +1,55 @@
+.todo-main {
+    width: 700px;
+    margin: auto;
+}
+.todo-list {
+    width: 700px;
+    margin: auto;
+    list-style: none;
+    padding-left: 0;
+}
+.todo {
+    list-style: none;
+    width: 700px;
+}
+.todo-editing {
+    display: none;
+    width: 657px;
+    font-size: 24px;
+}
+.check-todo {
+    width: 20px;
+}
+.text-todo {
+    padding: 10px 90px 5px 5px;
+    word-break: break-all;
+    font-size: 24px;
+}
+.delete-todo {
+    float: right;
+    margin-top: 5px;
+    display: none;
+}
+.todo-list hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 2px;
+}
+.todo-input {
+    border:1px solid white;
+    width: 97.5%;
+    font-size: 22px;
+}
+.check-all {
+    background: none;
+
+}
+.input-main {
+    border:1px solid rgb(179, 174, 174); 
+}
+.clear {
+    display: none;
+}
+.menu-todo {
+    display: none;
+}
